@@ -16,5 +16,6 @@ describe CouponsController do
       end
     end
   end
+  
 
 end
